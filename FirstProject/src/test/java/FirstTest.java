@@ -10,6 +10,13 @@ public class FirstTest {
 	
 			assertEquals(2,2);
 		}
-	}
+	
+
+	@Test
+	public void test2() {
+	
+			assertEquals(3,2);
+		}
+}
 
 
